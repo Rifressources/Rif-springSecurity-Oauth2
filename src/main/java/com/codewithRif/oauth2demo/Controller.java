@@ -1,4 +1,4 @@
-package com.codewithkris.oauth2demo;
+package com.codewithRif.oauth2demo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
