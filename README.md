@@ -1,11 +1,8 @@
 # SpringOAuth2Demo
-
-## Running the demo locally
-* get a client-id & client secret from https://console.developers.google.com/
-* place the client-id & secret inside `/src/main/resources/application.yml`
-* run this Spring application
-
-
+  Lancer la démo localement
+    * obtenir un identifiant client et un secret client sur https://console.developers.google.com/
+    * placez l'ID client et le secret dans `/ src / main / resources / application.properties`
+    * lancez cette application Spring
 
 
 
